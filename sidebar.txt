@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mwy:home|Door43 (mwy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mwy|d43-mwy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mwy/archive/master.zip|d43-mwy.zip]]
+
+**Recent Changes**
+{{changes>ns = mwy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mwy|Ethnologue data]]
+
